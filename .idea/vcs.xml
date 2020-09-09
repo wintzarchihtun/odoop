@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/addons/auto_backup" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/addons/helpdesk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/addons/muk_web_theme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/addons/project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/addons/project_timeline1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/addons/sale" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/addons/sinerkia_jitsi_meet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/addons/smile_website_access_control" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/addons/timesheet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/addons/web_export_current" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/addons/web_export_odoo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/addons/web_gantt_project_task_app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/addons/web_timeline" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/custom_addons/web_export_current" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/setup/addons" vcs="Git" />
+  </component>
+</project>
